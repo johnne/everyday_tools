@@ -1,0 +1,4 @@
+#Vim swp files
+*.swp
+#Client secret
+client_secret.json
